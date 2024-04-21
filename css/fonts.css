@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Andale Mono';
+    src: url(../fonts/Andale Mono-Regular.ttf) format(truetype);
+    font-style: normal; 
+}
+
+@font-face{
+    font-family: 'Andale Mono';
+    src: url(../fonts/Andale Mono-Regular.ttf) format(truetype);
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Zapfino';
+    src: url(../fonts/Zapfino-Regular.ttf) format(truetype);
+    font-style: normal;
+}
