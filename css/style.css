@@ -5,7 +5,8 @@ body, h1, h2, h3, p, ul, ol, li {
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Andale Mono';
+    font-style: normal;
     background-color: light green;
     color: dark brown;
     line-height: 1.6;
@@ -13,6 +14,9 @@ body {
 
 header {
     background-color: tan;
+    font-family: 'Andale Mono';
+    font-style: regular;
+    color: dark brown;
     text-align: center;
     padding: 40px 0;
 }
