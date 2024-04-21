@@ -1,0 +1,112 @@
+
+body, h1, h2, h3, p, ul, ol, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: light green;
+    color: dark brown;
+    line-height: 1.6;
+}
+
+header {
+    background-color: tan;
+    text-align: center;
+    padding: 40px 0;
+}
+
+header h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+nav {
+    background-color: light green;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    color: brown;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    background-color: tan;
+}
+
+main {
+    padding: 40px;
+}
+
+.hero {
+    background-color: green;
+    padding: 40px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.hero-content {
+    text-align: center;
+}
+
+.recipe {
+    background-color: light green;
+    padding: 40px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.recipe h2 {
+    margin-bottom: 20px;
+}
+
+.ingredients, .instructions {
+    margin-bottom: 30px;
+}
+
+.ingredients ul, .instructions ol {
+    list-style: none;
+}
+
+.ingredients h3, .instructions h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.tips {
+    background-color: light green;
+    padding: 40px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.tips h2 {
+    margin-bottom: 20px;
+}
+
+.image-section {
+    text-align: center;
+}
+
+.image-container {
+    margin-top: 20px;
+}
+
+footer {
+    background-color: dark green;
+    color: dark brown;
+    text-align: center;
+    padding: 20px 0;
+}
