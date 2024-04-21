@@ -1,22 +1,21 @@
-
 body, h1, h2, h3, p, ul, ol, li {
     margin: 0;
     padding: 0;
 }
 
 body {
-    font-family: 'Andale Mono';
+    font-family: 'Andale Mono', monospace;
     font-style: normal;
-    background-color: light green;
-    color: dark brown;
+    background-color: lightgreen;
+    color: darkbrown;
     line-height: 1.6;
 }
 
 header {
     background-color: tan;
-    font-family: 'Andale Mono';
-    font-style: regular;
-    color: dark brown;
+    font-family: 'Andale Mono', monospace;
+    font-style: normal;
+    color: darkbrown;
     text-align: center;
     padding: 40px 0;
 }
@@ -31,7 +30,7 @@ header p {
 }
 
 nav {
-    background-color: light green;
+    background-color: lightgreen;
     text-align: center;
     padding: 10px 0;
 }
@@ -64,7 +63,7 @@ main {
 }
 
 .recipe {
-    background-color: light green;
+    background-color: lightgreen;
     padding: 40px;
     margin-bottom: 40px;
     border-radius: 10px;
@@ -89,7 +88,7 @@ main {
 }
 
 .tips {
-    background-color: light green;
+    background-color: lightgreen;
     padding: 40px;
     margin-bottom: 40px;
     border-radius: 10px;
@@ -109,8 +108,8 @@ main {
 }
 
 footer {
-    background-color: dark green;
-    color: dark brown;
+    background-color: darkgreen;
+    color: darkbrown;
     text-align: center;
     padding: 20px 0;
 }
